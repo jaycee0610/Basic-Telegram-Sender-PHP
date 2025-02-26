@@ -1,5 +1,7 @@
 # 🚀 Basic Telegram Sender PHP
 
+![GIF](https://raw.githubusercontent.com/jaycee0610/Basic-Telegram-Sender-PHP/refs/heads/main/main.gif)
+
 A simple PHP script to send messages to a Telegram group using a bot. 🤖
 
 ## 📥 Installation
